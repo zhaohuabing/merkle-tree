@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/zhaohuabing/merkle-tree.svg?branch=master)](https://travis-ci.org/zhaohuabing/merkle-tree)
+[![codecov](https://codecov.io/gh/zhaohuabing/merkle-tree/branch/master/graph/badge.svg)](https://codecov.io/gh/zhaohuabing/merkle-tree)
 
 A simple java merkle tree implementation.
 ## LICENSE
